@@ -8,7 +8,7 @@
 `gnark` is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license
 
 
-## Useful Links
+## Useful Links detail
 
 * [`gnark` User Documentation]
 * [`gnark` Playground]
